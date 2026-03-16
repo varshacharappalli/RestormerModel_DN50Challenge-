@@ -29,8 +29,8 @@ NTIRE2025_Dn50_challenge
 │
 ├── model_zoo
 │   ├── team13_initialweights.pth    # Initial Restormer σ=50 pretrained weights
-│   └── 13_Restormer.pth             # Best fine-tuned model after training
-│   └── team13_Restormer.pth             # Best Model that was obtained during training
+│   └── 13_Restormer.pth             # Best fine-tuned model after training(after you run)
+│   └── team13_Restormer.pth         # Best Model that was obtained during training(the model obtained after already training)
 │
 ├── team13_restormer.ipynb           # Kaggle notebook used for training
 │
